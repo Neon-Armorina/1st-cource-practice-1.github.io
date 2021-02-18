@@ -3,4 +3,4 @@
 <p> Галкин Иван Юрьевич, студент 1 курса, 1 группы(ИВТ)</p>
 <h2>Содержимое:</h2>
 <p> Тема 1 </p>
-<p> [Задание ИСР 1.1](https://github.com/Neon-Armorina/1st-cource-practice-1.github.io/blob/main/Галкин%20Иван%20ИВТ%201-1%20ВСР%202.1.2.docx)</p>
+<p><a href="https://github.com/Neon-Armorina/1st-cource-practice-1.github.io/blob/main/%D0%93%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%20%D0%98%D0%B2%D0%B0%D0%BD%20%D0%98%D0%92%D0%A2%201-1%20%D0%92%D0%A1%D0%A0%202.1.2.docx">Задание ИСР 1.1</a></p>
